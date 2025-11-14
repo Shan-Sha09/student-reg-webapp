@@ -25,11 +25,11 @@
     <distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<url>http://13.127.188.254:8081/repository/Shantech-Release/</url>
+			<url>http://13.235.248.127:8081/repository/Student_reg_app_jenkins/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://13.127.188.254:8081/repository/Shantech-snapshot/</url>
+			<url>http://13.235.248.127:8081/repository/student_reg_app_snap_jenkins/</url>
 		</snapshotRepository>
     </distributionManagement>
 
